@@ -1,0 +1,25 @@
+Hola mi chiquita pecosa <3 
+
+Si estás viendo este mensaje, es por que clonaste bien el repositorio, ¡muchas felicidades!
+
+Para tu primer tarea, debes realizar lo siguiente:
+
+1.- Crear carpetas con los nombres de Ejemplo1 y Ejemplo2
+
+2.- Dentro de cada carpeta, creas un archivo main.cpp (donde escribiras el código)
+
+3.- Escribir los códigos que hicimos como ejemplo, en la clase que te dí 
+
+4.- Subirlos al repositorio (hacer los commits)
+
+5.- Haz el primer commit con el código del ejemplo 1, y lo subes con el texto "Programa Hola mundo en C++"
+
+6.- Haz el segundo commit con el código del ejemplo 2 (el que solo imprime algo en pantalla), y lo subes con el texto "Programa Hola mundo en C++ variante"
+
+7.- Haz otra carpeta nombrada Ejemplo 3, y dentro pones otro main.cpp y en el código haces el programa que te pedía tu nombre y lo muestra en pantalla.
+
+8.- Haz el tercer commit para este programa y de comentario le pones "Pide nombre al usuario"
+
+Ánimos, tu puedes.
+
+¡Si lo puedes imaginar, lo puedes programar!.
